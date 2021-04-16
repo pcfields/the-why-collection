@@ -10,4 +10,5 @@ Reasons why we write code in certain ways
 # Typescript
 
 [Enums or union types](https://blog.bam.tech/developer-news/should-you-use-enums-or-union-types-in-typescript)
+
 [Prefer union types over enums](https://fettblog.eu/tidy-typescript-avoid-enums/)
