@@ -6,3 +6,7 @@ Reasons why we write code in certain ways
 [boolean vs !!](https://www.samanthaming.com/tidbits/19-2-ways-to-convert-to-boolean/)
 
 [checkboxes vs switch component](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
+
+# Typescript
+
+[ENUMS OR UNION TYPES IN TYPESCRIPT](https://blog.bam.tech/developer-news/should-you-use-enums-or-union-types-in-typescript)
