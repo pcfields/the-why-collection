@@ -15,6 +15,8 @@ Reasons why we write code in certain ways
 
 [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
 
+[How to Define Props with Children in React + TypeScript App](https://www.newline.co/@bespoyasov/how-to-define-props-with-children-in-react-typescript-app--56bd18be)
+
 
 # Accessibility
 
