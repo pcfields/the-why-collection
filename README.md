@@ -16,11 +16,11 @@ Reasons why we write code in certain ways
 [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
 
 
-#Accessibility
+# Accessibility
 
 [Revisting aria-label versus a visually hidden class](https://gomakethings.com/revisting-aria-label-versus-a-visually-hidden-class/)
 
 
-#Design Systems
+# Design Systems
 
 [Design Systems: React Buttons with the Base + Variant Pattern](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf)
