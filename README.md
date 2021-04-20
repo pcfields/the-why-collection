@@ -17,6 +17,7 @@ Reasons why we write code in certain ways
 
 [How to Define Props with Children in React + TypeScript App](https://www.newline.co/@bespoyasov/how-to-define-props-with-children-in-react-typescript-app--56bd18be)
 
+[Components as Function Declarations vs. Function Expressions](https://blog.echobind.com/react-with-typescript-components-as-function-declarations-vs-function-expressions-e433ac8d6938)
 
 # Accessibility
 
