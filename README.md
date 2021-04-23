@@ -7,6 +7,7 @@ Reasons why we write code in certain ways
 
 [checkboxes vs switch component](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
 
+[Keyboard: keydown and keyup | key vs keyCode](https://javascript.info/keyboard-events)
 # Typescript
 
 [Enums or union types](https://blog.bam.tech/developer-news/should-you-use-enums-or-union-types-in-typescript)
