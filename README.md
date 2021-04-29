@@ -7,6 +7,8 @@ Reasons why we write code in certain ways
 
 [checkboxes vs switch component](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
 
+[Why you should enforce Dangling Commas for Multiline Statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8)
+
 ## Keyboard
 [Keyboard: keydown and keyup | key vs keyCode](https://javascript.info/keyboard-events)
 
