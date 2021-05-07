@@ -30,6 +30,10 @@ Reasons why we write code in certain ways
 
 [Components as Function Declarations vs. Function Expressions](https://blog.echobind.com/react-with-typescript-components-as-function-declarations-vs-function-expressions-e433ac8d6938)
 
+[Types vs Interfaces](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces) > Use interface till you need type
+
+[Types vs interfaces - Cheatsheet](https://github.com/typescript-cheatsheets/react#types-or-interfaces)
+
 # Accessibility
 
 [Revisting aria-label versus a visually hidden class](https://gomakethings.com/revisting-aria-label-versus-a-visually-hidden-class/)
