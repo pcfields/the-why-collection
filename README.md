@@ -19,6 +19,10 @@ Reasons why we write code in certain ways
 
 [Named keyboard key Attribute Values](https://www.w3.org/TR/uievents-key/#named-key-attribute-values)
 
+# React
+
+[Forms uncontrolled vs controlled](https://daveceddia.com/react-forms/)
+
 # Typescript
 
 [Enums or union types](https://blog.bam.tech/developer-news/should-you-use-enums-or-union-types-in-typescript)
