@@ -52,3 +52,8 @@ Reasons why we write code in certain ways
 # Design Systems
 
 [Design Systems: React Buttons with the Base + Variant Pattern](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf)
+
+# Caching
+
+[Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
+[Cache Control](https://www.imperva.com/learn/performance/cache-control/)
