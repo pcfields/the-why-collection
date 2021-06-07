@@ -56,4 +56,7 @@ Reasons why we write code in certain ways
 # Caching
 
 [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
+
 [Cache Control](https://www.imperva.com/learn/performance/cache-control/)
+
+[Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/)
