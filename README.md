@@ -28,6 +28,10 @@ Reasons why we write code in certain ways
 
 [Forms uncontrolled vs controlled](https://daveceddia.com/react-forms/)
 
+[new Date as react key prop?](https://stackoverflow.com/a/51524337)
+
+[What are the valid symbols for a React 'key'](https://stackoverflow.com/questions/38827179/what-are-the-valid-symbols-for-a-react-key)
+
 # Typescript
 
 [Enums or union types](https://blog.bam.tech/developer-news/should-you-use-enums-or-union-types-in-typescript)
