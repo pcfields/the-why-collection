@@ -48,6 +48,12 @@ Reasons why we write code in certain ways
 
 [Types vs interfaces - Cheatsheet](https://github.com/typescript-cheatsheets/react#types-or-interfaces)
 
+[Enums considered harmful](https://youtu.be/jjMbPt_H3RQ?si=VR460VEfOArEGNh)
+
+[Why use Type and not Interface in TypeScript](https://youtu.be/Idf0zh9f3qQ?si=hiFk89dms7Rh1-qy)
+
+[TypeScript: Should you use Types or Interfaces?](https://youtu.be/zM9UPcIyyhQ?si=ePRZtYmdLbzaM100)
+
 # Accessibility
 
 [Revisting aria-label versus a visually hidden class](https://gomakethings.com/revisting-aria-label-versus-a-visually-hidden-class/)
