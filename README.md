@@ -58,6 +58,8 @@ Reasons why we write code in certain ways
 
 [TypeScript: Should you use Types or Interfaces?](https://youtu.be/zM9UPcIyyhQ?si=ePRZtYmdLbzaM100)
 
+[Making Sense of TypeScript Generics](https://kettanaito.com/blog/making-sense-of-typescript-generics)
+
 # Accessibility
 
 [Revisting aria-label versus a visually hidden class](https://gomakethings.com/revisting-aria-label-versus-a-visually-hidden-class/)
