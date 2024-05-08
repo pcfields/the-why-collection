@@ -11,6 +11,7 @@ Reasons why we write code in certain ways
 
 [Use Timestamp instead of boolean](https://changelog.com/posts/you-might-as-well-timestamp-it)
 
+[Why Fetch Promise Doesn't Reject on Error Responses](https://kettanaito.com/blog/why-fetch-promise-doesnt-reject-on-error-responses)
 # Testing
 
 [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
@@ -31,6 +32,9 @@ Reasons why we write code in certain ways
 [new Date as react key prop?](https://stackoverflow.com/a/51524337)
 
 [What are the valid symbols for a React 'key'](https://stackoverflow.com/questions/38827179/what-are-the-valid-symbols-for-a-react-key)
+
+[Why use React Query](https://tkdodo.eu/blog/why-you-want-react-query)
+
 
 # Typescript
 
