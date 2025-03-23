@@ -76,3 +76,11 @@ Reasons why we write code in certain ways
 [Cache Control](https://www.imperva.com/learn/performance/cache-control/)
 
 [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/)
+
+# Folder structure
+
+[Screaming Architecture - Evolution of a React folder structure](https://dev.to/profydev/screaming-architecture-evolution-of-a-react-folder-structure-4g25)
+
+[How to Structure and Organize a React Application](https://www.taniarascia.com/react-architecture-directory-structure/)
+
+[Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
